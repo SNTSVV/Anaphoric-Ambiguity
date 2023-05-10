@@ -1,0 +1,1 @@
+The S&T component shall send all approval requests to the DBS. If the request contains storage parameters, it shall create a configuration record from the parameters.
